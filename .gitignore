@@ -1,0 +1,15 @@
+# heavy / generated stuff - downloaded or built locally, never committed
+llama/
+models/
+*.gguf
+*.exe
+*.dll
+*.zip
+build/
+dist/
+logs/
+settings.json
+__pycache__/
+*.pyc
+.venv/
+venv/

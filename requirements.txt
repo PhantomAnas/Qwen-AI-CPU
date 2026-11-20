@@ -1,0 +1,4 @@
+PyQt6>=6.5
+psutil>=5.9
+# only needed to build the .exe (build.ps1)
+pyinstaller>=6.0

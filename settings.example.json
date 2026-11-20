@@ -1,0 +1,11 @@
+{
+  "model_path": "models\\Qwen3.6-35B-A3B-UD-IQ3_XXS.gguf",
+  "server_exe": "llama\\llama-server.exe",
+  "threads": 6,
+  "context": 8192,
+  "port": 8080,
+  "thinking": false,
+  "cache_ram_mb": 512,
+  "ram_guard_mb": 2000,
+  "open_browser": true
+}
